@@ -417,7 +417,7 @@
         "item_location_township": {
             "id": "itm_town5703f796b15b627f7577075ff977dcd7",
             "city_id": "itm_loca7b66748e03d457e976ca63a50e1bde0",
-            "township_name": "Mahar Aung Myay",
+            "township_name": "Cluj,Romania",
             "ordering": "1",
             "lat": "21.949255",
             "lng": "96.084801",
@@ -664,7 +664,7 @@
         "item_location_township": {
             "id": "itm_towna2d9af797590c25d0f1c3385e04f5353",
             "city_id": "itm_loc892e3dbe2fbf07ae7b19455a4e75b28c",
-            "township_name": "San Chaung",
+            "township_name": "Bucharest ,Romania",
             "ordering": "3",
             "lat": "16.805096",
             "lng": "96.132095",
